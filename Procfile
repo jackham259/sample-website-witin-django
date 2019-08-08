@@ -1,0 +1,1 @@
+web: gunicorn badbird.wsgi --log-file -
